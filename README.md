@@ -1,2 +1,3 @@
 # mvno-esim-tester
-Agent that reads incoming tickets (WhatsApp/Email/Task), classifies urgency, pulls relevant logs from core, escalates or auto-resolves simple cases.
+Agent that spins up virtual eSIM profiles, runs call/SMS/data tests, collects results and generates compliance report for MVNOs.
+Usa pySIM ou Truphone API fake + Playwright pra simular device.
